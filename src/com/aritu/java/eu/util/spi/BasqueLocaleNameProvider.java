@@ -71,11 +71,11 @@ public final class BasqueLocaleNameProvider extends LocaleNameProvider {
         displayCountries.put("AI", "Aingira");
         displayCountries.put("AL", "Albania");
         displayCountries.put("AM", "Armenia");
-        displayCountries.put("AN", "Antilla Herbeheretarrak");
+        displayCountries.put("AN", "Holandarren Antillak");
         displayCountries.put("AO", "Angola");
         displayCountries.put("AQ", "Antartika");
         displayCountries.put("AR", "Argentina");
-        displayCountries.put("AS", "Samoa Amerikarra");
+        displayCountries.put("AS", "Samoa Estatubatuarra");
         displayCountries.put("AT", "Austria");
         displayCountries.put("AU", "Australia");
         displayCountries.put("AW", "Aruba");
@@ -95,15 +95,15 @@ public final class BasqueLocaleNameProvider extends LocaleNameProvider {
         displayCountries.put("BO", "Bolivia");
         displayCountries.put("BR", "Brasil");
         displayCountries.put("BS", "Bahamak");
-        displayCountries.put("BT", "Butan");
+        displayCountries.put("BT", "Bhutan");
         displayCountries.put("BV", "Bouvet uhartea");
-        displayCountries.put("BW", "Botsuana");
+        displayCountries.put("BW", "Botswana");
         displayCountries.put("BY", "Bielorrusia");
         displayCountries.put("BZ", "Belize");
         displayCountries.put("CA", "Kanada");
         displayCountries.put("CC", "Cocos uharteak");
         displayCountries.put("CD", "Kongoko Errepublika Demokratikoa");
-        displayCountries.put("CF", "Erdialdeko Afrikako Errepublika");
+        displayCountries.put("CF", "Afrika Erdiko Errepublika");
         displayCountries.put("CG", "Kongoko Errepublika");
         displayCountries.put("CH", "Suitza");
         displayCountries.put("CI", "Boli Kosta");
@@ -166,7 +166,7 @@ public final class BasqueLocaleNameProvider extends LocaleNameProvider {
         displayCountries.put("IE", "Irlanda");
         displayCountries.put("IL", "Israel");
         displayCountries.put("IN", "India");
-        displayCountries.put("IO", "Indiar Ozeanoko Britainiar Lurraldea");
+        displayCountries.put("IO", "Indiako Ozeanoko Britainiar Lurraldea");
         displayCountries.put("IQ", "Irak");
         displayCountries.put("IR", "Iran");
         displayCountries.put("IS", "Islandia");
@@ -174,12 +174,12 @@ public final class BasqueLocaleNameProvider extends LocaleNameProvider {
         displayCountries.put("JM", "Jamaika");
         displayCountries.put("JO", "Jordania");
         displayCountries.put("JP", "Japonia");
-        displayCountries.put("KE", "Kenia");
+        displayCountries.put("KE", "Kenya");
         displayCountries.put("KG", "Kirgizistan");
         displayCountries.put("KH", "Kanbodia");
         displayCountries.put("KI", "Kiribati");
         displayCountries.put("KM", "Komoreak");
-        displayCountries.put("KN", "San Kristobal eta Nevis");
+        displayCountries.put("KN", "Saint Kitts eta Nevis");
         displayCountries.put("KP", "Ipar Korea");
         displayCountries.put("KR", "Hego Korea");
         displayCountries.put("KW", "Kuwait");
@@ -269,7 +269,7 @@ public final class BasqueLocaleNameProvider extends LocaleNameProvider {
         displayCountries.put("ST", "Sao Tome eta Principe");
         displayCountries.put("SV", "El Salvador");
         displayCountries.put("SY", "Siria");
-        displayCountries.put("SZ", "Swazilandia");
+        displayCountries.put("SZ", "Eswatini");
         displayCountries.put("TC", "Turk eta Caico uharteak");
         displayCountries.put("TD", "Txad");
         displayCountries.put("TF",
@@ -290,15 +290,15 @@ public final class BasqueLocaleNameProvider extends LocaleNameProvider {
         displayCountries.put("UA", "Ukraina");
         displayCountries.put("UG", "Uganda");
         displayCountries.put("UM",
-                "Ameriketako Estatu Batuetako itsasoz haraindiko uharteak");
+                "Ameriketako Estatu Batuetako Itsasoz Haraindiko Uharteak");
         displayCountries.put("US", "Ameriketako Estatu Batuak");
         displayCountries.put("UY", "Uruguai");
         displayCountries.put("UZ", "Uzbekistan");
         displayCountries.put("VA", "Vatikano Hiria");
-        displayCountries.put("VC", "San Bizente eta Granadiarrak");
+        displayCountries.put("VC", "Saint Vincent eta Grenadinak");
         displayCountries.put("VE", "Venezuela");
-        displayCountries.put("VG", "Birjina uharte britainiarrak");
-        displayCountries.put("VI", "Birjina uharte amerikarrak");
+        displayCountries.put("VG", "Birjina Uharte Britainiarrak");
+        displayCountries.put("VI", "Birjina Uharte Estatubatuarrak");
         displayCountries.put("VN", "Vietnam");
         displayCountries.put("VU", "Vanuatu");
         displayCountries.put("WF", "Wallis eta Futuna");
