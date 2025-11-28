@@ -1,0 +1,43 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Maven Set Version",
+            "type": "shell",
+            "command": "mvn",
+            "args": [
+                "versions:set",
+                "-DnewVersion=${input:newVersion}",
+                "-DgenerateBackupPoms=false"
+            ],
+            "presentation": {
+                "close": true
+            },
+            "icon": {
+                "id": "code",
+                "color": "terminal.ansiYellow"
+            }
+        },
+        {
+            "label": "Maven Clean Install",
+            "type": "shell",
+            "command": "mvn clean install",
+            "presentation": {
+                "close": true
+            },
+            "icon": {
+                "id": "zap",
+                "color": "terminal.ansiYellow"
+            }
+        }
+    ],
+    "inputs": [
+        {
+            "id": "newVersion",
+            "description": "New version:",
+            "type": "promptString"
+        }
+    ]
+}
